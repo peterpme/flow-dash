@@ -1,6 +1,6 @@
 {
   "name": "flow-dash",
-  "version": "1.0.0",
+  "version": "0.22.0",
   "description": "Flow (A static type checker for javascript. From facebook) Documentation Source for Dash (http://kapeli.com/dash)",
   "repository": {
     "type": "git",

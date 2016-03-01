@@ -25,6 +25,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "type-annotations",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "third-party",
         "type": "Guides",
         "toc": "Section"
@@ -36,6 +41,11 @@ var indexedFiles = [
     },
     {
         "name": "troubleshooting",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "cli",
         "type": "Guides",
         "toc": "Section"
     },
@@ -60,12 +70,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "type-annotations",
-        "type": "Property",
-        "toc": "Property"
-    },
-    {
-        "name": "variables",
+        "name": "builtins",
         "type": "Property",
         "toc": "Property"
     },
@@ -115,17 +120,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "operators",
-        "type": "Property",
-        "toc": "Property"
-    },
-    {
         "name": "dynamic-type-tests",
         "type": "Property",
         "toc": "Property"
     },
     {
-        "name": "primitives",
+        "name": "modules",
         "type": "Property",
         "toc": "Property"
     },
@@ -135,8 +135,8 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "cli",
-        "type": "Command",
+        "name": "react",
+        "type": "Property",
         "toc": "Property"
     }
 ];

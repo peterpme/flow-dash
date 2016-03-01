@@ -15,6 +15,6 @@
   <key>isJavaScriptEnabled</key>
   <true/>
   <key>dashIndexFilePath</key>
-  <string>react-native/index.html</string>
+  <string>flow/index.html</string>
 </dict>
 </plist>
