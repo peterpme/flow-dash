@@ -55,22 +55,17 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "react-example",
-        "type": "Sample",
-        "toc": "Property"
-    },
-    {
-        "name": "underscore",
-        "type": "Sample",
-        "toc": "Property"
-    },
-    {
         "name": "quick-reference",
         "type": "Property",
         "toc": "Property"
     },
     {
         "name": "builtins",
+        "type": "Property",
+        "toc": "Property"
+    },
+    {
+        "name": "syntax",
         "type": "Property",
         "toc": "Property"
     },
@@ -121,6 +116,11 @@ var indexedFiles = [
     },
     {
         "name": "dynamic-type-tests",
+        "type": "Property",
+        "toc": "Property"
+    },
+    {
+        "name": "disjoint-unions",
         "type": "Property",
         "toc": "Property"
     },
