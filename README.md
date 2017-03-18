@@ -1,6 +1,6 @@
 # [Flow](http://flowtype.org/) (A static type checker for javascript. From facebook) documentation for [Dash](http://kapeli.com/dash)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/jest-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/jest-dash)
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/flow-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/flow-dash) [![Build Status](https://travis-ci.org/epitaphmike/flow-dash.svg?branch=master)](https://travis-ci.org/epitaphmike/flow-dash)
 
 ## Installation in Dash
 

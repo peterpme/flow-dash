@@ -1,10 +1,5 @@
 var indexedFiles = [
     {
-        "name": "about-flow",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
         "name": "getting-started",
         "type": "Guides",
         "toc": "Section"
@@ -56,16 +51,16 @@ var indexedFiles = [
     },
     {
         "name": "quick-reference",
-        "type": "Property",
-        "toc": "Property"
-    },
-    {
-        "name": "builtins",
-        "type": "Property",
-        "toc": "Property"
+        "type": "Type",
+        "toc": "Type"
     },
     {
         "name": "syntax",
+        "type": "Extension",
+        "toc": "Struct"
+    },
+    {
+        "name": "builtins",
         "type": "Property",
         "toc": "Property"
     },
@@ -90,6 +85,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "variance",
+        "type": "Property",
+        "toc": "Property"
+    },
+    {
         "name": "nullable-types",
         "type": "Property",
         "toc": "Property"
@@ -100,12 +100,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "union-intersection-types",
+        "name": "type-aliases",
         "type": "Property",
         "toc": "Property"
     },
     {
-        "name": "type-aliases",
+        "name": "union-intersection-types",
         "type": "Property",
         "toc": "Property"
     },
@@ -131,6 +131,11 @@ var indexedFiles = [
     },
     {
         "name": "declarations",
+        "type": "Property",
+        "toc": "Property"
+    },
+    {
+        "name": "utility-types",
         "type": "Property",
         "toc": "Property"
     },

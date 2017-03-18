@@ -14,7 +14,7 @@ cd Documents
 wget -m -p -E -k -np -X /blog http://flowtype.org/
 
 # move it around a bit
-mv flowtype.org/ flow
+mv flowtype.org/ ./flow
 cd ../../../
 
 # create data file from base index page

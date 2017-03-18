@@ -10,7 +10,7 @@ var config = {
     "pageHeader" : ".withtoc h1",
     "pageSubHeaders" : [".withtoc h2", ".withtoc h3"],
     "ignoreSection" : {
-        "sectionsArray" : ["Coming Soon"]
+        "sectionsArray" : []
     },
     "ignorePage" : {
         "pagesArray" : []
