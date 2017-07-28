@@ -11,10 +11,10 @@ sqlite3 docSet.dsidx 'CREATE UNIQUE INDEX anchor ON searchIndex (name, type, pat
 # fetch the whole doc site
 cd Documents
 # Excluding /blog directory
-wget -m -p -E -k -np -X /blog http://flowtype.org/
+wget -m -p -E -k -np -X /blog https://flow.org/
 
 # move it around a bit
-mv flowtype.org/ ./flow
+mv flow.org/ ./flow
 cd ../../../
 
 # create data file from base index page
